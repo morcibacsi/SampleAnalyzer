@@ -3,7 +3,7 @@
 This plugin for [Saleae Logic][logic] allows you to analyze VAN bus packets found in cars made by PSA (Peugeot, Citroen)
 VAN bus is pretty similar to CAN bus.
 
-![logic analyzer](https://github.com/morcibacsi/VanAnalyzer/raw/master/docs/logic_printscreen.png)
+![logic analyzer](https://github.com/morcibacsi/VanAnalyzer/raw/master/docs/Logic_printscreen.png)
 
 ## Exporting
 
