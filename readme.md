@@ -1,4 +1,4 @@
-# VAN bus Analyzer for Saleae USB logic analyzer
+# Vehicle Area Network (VAN bus) Analyzer for Saleae USB logic analyzer
 
 This plugin for [Saleae Logic][logic] allows you to analyze VAN bus packets found in cars made by PSA (Peugeot, Citroen)
 VAN bus is pretty similar to CAN bus.
