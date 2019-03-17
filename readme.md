@@ -1,7 +1,7 @@
 # Vehicle Area Network (VAN bus) Analyzer for Saleae USB logic analyzer
 
-This plugin for [Saleae Logic][logic] allows you to analyze VAN bus packets found in cars made by PSA (Peugeot, Citroen)
-VAN bus is pretty similar to CAN bus.
+This plugin for [Saleae Logic][logic] allows you to analyze [VAN][van_network] bus packets found in cars made by PSA (Peugeot, Citroen)
+VAN bus is pretty similar to CAN bus. In the application the **&#9679;** are marking the places where the sample was taken and the **&#10799;** are marking the E-Manchester bits (those must be ignored when decoding the data).
 
 ![logic analyzer](https://github.com/morcibacsi/VanAnalyzer/raw/master/docs/Logic_printscreen.png)
 
@@ -90,3 +90,4 @@ In the Developer tab in Logic preferences, specify the path for loading new plug
 
 [logic]: https://www.saleae.com/downloads
 [graham]: http://graham.auld.me.uk/projects/vanbus/lineprotocol.html
+[van_network]: https://en.wikipedia.org/wiki/Vehicle_Area_Network
